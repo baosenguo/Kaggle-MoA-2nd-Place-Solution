@@ -7,6 +7,7 @@ Below is my solution for the [Mechanisms of Action (MoA) Prediction competition]
 If you run into any trouble with the setup/code or have any questions please contact me at baosenguo@163.com.
 
 ##### Solution summary: https://www.kaggle.com/c/lish-moa/discussion/202256
+##### Writeup in PDF Format: 2nd Place Solution.pdf
 
 ## OVERVIEW
 
