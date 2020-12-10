@@ -66,11 +66,11 @@ sklearn 0.23.2
 
 All the training and inference steps can be done within notebooks on kaggle platform.
 
-(1) add moa datasett for each kernel.
+(1) add moa dataset for each kernel.
 
 (2) run 3 single model notebooks (1d-cnn-train.ipynb, tabnet-train.ipynb, dnn-train.ipynb ) for training and generating model files as outputs.
 
-(3) add kernel outputs of single models to the inference notebook (inference.ipynb), copy file path and fill in the corresponding mod_ path.
+(3) add kernel outputs of single models to the inference notebook (inference.ipynb), copy file path and fill in the corresponding mod_path.
 
 (4) run the inference notebook to generate final submission. 
 
